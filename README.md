@@ -38,16 +38,20 @@
 
 ## 🛠️ Getting Started
 
-### 1. Download
+### 1. GET SESSION ID HERE
+ <br>
+ <a href='https://snowbird-pairing.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+
+### 2. Download
 
 - [Download ZIP](https://github.com/SNOWBIRD0074/BEN-10-MD/archive/refs/heads/main.zip)
 
-### 2. Deploy Online
+### 3. Deploy Online
 
 - **[Deploy to Render](https://dashboard.render.com/deploy?repo=https://github.com/SNOWBIRD0074/BEN-10-MD)**
 - **[Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/SNOWBIRD0074/BEN-10-MD)**
 
-### 3. Run Locally
+### 4. Run Locally
 
 ```bash
 git clone https://github.com/SNOWBIRD0074/BEN-10-MD.git
@@ -56,7 +60,7 @@ npm install
 npm start
 ```
 
-### 4. Configure
+### 5. Configure
 
 - Edit `.env` or `config.js` as required for your WhatsApp session and bot settings.
 
